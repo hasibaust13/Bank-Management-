@@ -1,0 +1,1 @@
+Bank Manangement project is to allow an executive of a bank to serve their customers when they will come to the bank. For example, deposit money, withdraw money, generates transection report etc. It is an oracle based project.
